@@ -509,7 +509,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>11ty/eleventy</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A simpler static site generator. An alternative to Jekyll. Transforms a directory of templates (of varying types) into HTML.</div>
@@ -1279,7 +1279,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 9 Mar 2022, 13:01:18 (timezone America/Toronto) with lowlighter/metrics@3.21.0</span>
+                <span>Last updated 9 Mar 2022, 14:01:12 (timezone America/Toronto) with lowlighter/metrics@3.21.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
