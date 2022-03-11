@@ -663,7 +663,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>badges/shields</span>
-                                        <span>starred 20 days ago</span>
+                                        <span>starred 21 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Concise, consistent, and legible badges in SVG and raster format</div>
@@ -1275,7 +1275,7 @@ Co-authored-by: Levvie - she/her &lt;11600822+ItzLevvie@users.noreply.github.com
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 10 Mar 2022, 22:10:17 (timezone America/Toronto) with lowlighter/metrics@3.21.0</span>
+                <span>Last updated 10 Mar 2022, 23:02:06 (timezone America/Toronto) with lowlighter/metrics@3.21.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
