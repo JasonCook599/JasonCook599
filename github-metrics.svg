@@ -519,7 +519,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ossf/scorecard</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Security Scorecards - Security health metrics for Open Source</div>
@@ -1326,7 +1326,7 @@ Fix unless statement for title</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 22 Mar 2022, 18:01:09 (timezone America/Toronto) with lowlighter/metrics@3.21.0</span>
+                <span>Last updated 22 Mar 2022, 19:01:28 (timezone America/Toronto) with lowlighter/metrics@3.21.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
