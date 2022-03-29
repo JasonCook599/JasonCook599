@@ -534,7 +534,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Kickbut101/BGGPlayUpload</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Tool to upload plays to BGG based on a given username and a given xml file</div>
@@ -1126,7 +1126,7 @@ Co-authored-by: winget-pkgs-automation-bot[bot] &lt;93540089+winget-pkgs-automat
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Developer
-                                    <span class="gh">ranked 9.01m out of 88m users</span>
+                                    <span class="gh">ranked 9.02m out of 88m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">4</div>
                                     </div>
@@ -1387,7 +1387,7 @@ Co-authored-by: winget-pkgs-automation-bot[bot] &lt;93540089+winget-pkgs-automat
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 29 Mar 2022, 07:25:14 (timezone America/Toronto) with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 29 Mar 2022, 08:13:02 (timezone America/Toronto) with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
