@@ -534,7 +534,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>microsoft/New-KrbtgtKeys.ps1</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">This script will enable you to reset the krbtgt account password and related keys while minimizing the likelihood of Kerberos authentication issues being caused by the operation.</div>
@@ -587,7 +587,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>bcwilhite/PendingReboot</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Module to detect Windows OS pending reboots</div>
@@ -640,7 +640,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>raandree/NTFSSecurity</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Managing permissions with PowerShell is only a bit easier than in VBS or the command line as there are no cmdlets for most day-to-day tasks like getting a permission report or adding permission to an item. PowerShell only offers Get-Acl and Set-Acl but everything in between getting and setting the ACL is missing. This module closes the gap.</div>
@@ -693,7 +693,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dwj7738/My-Powershell-Repository</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -1277,7 +1277,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 30 Mar 2022, 12:06:23 (timezone America/Toronto) with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 30 Mar 2022, 13:04:20 (timezone America/Toronto) with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
