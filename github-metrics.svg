@@ -534,7 +534,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>salopensource/sal</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Modular reporting for Endpoints</div>
@@ -587,7 +587,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>munkireport/munkireport-php</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A reporting tool for munki</div>
@@ -640,7 +640,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>petripaavola/IntuneDeviceDetailsGUI</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Intune Device Details GUI</div>
@@ -1299,7 +1299,7 @@ Co-authored-by: Levvie - she/her &lt;11600822+ItzLevvie@users.noreply.github.com
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 4 Apr 2022, 07:01:55 (timezone America/Toronto) with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 4 Apr 2022, 08:13:10 (timezone America/Toronto) with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
