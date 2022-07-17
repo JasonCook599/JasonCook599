@@ -490,8 +490,8 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">PowerShell</span>
-                                <div class="bar" style="width: 66.77813185448827%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                                <span class="value">83%</span>
+                                <div class="bar" style="width: 67.40953112838551%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <span class="value">84%</span>
                             </div>
                         </div>
                     </section>
@@ -1394,7 +1394,7 @@ Co-authored-by: winget-pkgs-automation-bot[bot] &lt;93540089+winget-pkgs-automat
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 16 Jul 2022, 22:42:28 (timezone America/Toronto) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 17 Jul 2022, 08:50:01 (timezone America/Toronto) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
