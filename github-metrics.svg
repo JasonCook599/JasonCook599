@@ -227,7 +227,7 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 645kb of code in 235 edited files across 97 commits</small>
+                <small>estimation from 646kb of code in 237 edited files across 97 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
@@ -1054,7 +1054,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Developer
-                                    <span class="gh">ranked 9.03m out of 105m users</span>
+                                    <span class="gh">ranked 9.04m out of 105m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">5</div>
                                     </div>
@@ -1273,7 +1273,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 25 Dec 2022, 20:48:25 (timezone America/Toronto) with lowlighter/metrics@3.31.0</span>
+                <span>Last updated 26 Dec 2022, 07:43:37 (timezone America/Toronto) with lowlighter/metrics@3.31.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
