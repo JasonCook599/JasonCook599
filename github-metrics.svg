@@ -502,7 +502,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>pnp/sp-starter-kit</span>
-                                        <span>starred 13 days ago</span>
+                                        <span>starred 14 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Modern SharePoint Starter Kit - End-to-end showcase solution to get started with modern experiences.</div>
@@ -555,7 +555,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>pnp/List-Formatting</span>
-                                        <span>starred 13 days ago</span>
+                                        <span>starred 14 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">List Formatting Samples for use in SharePoint and Microsoft Lists</div>
@@ -1291,7 +1291,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 6 Feb 2023, 20:51:01 (timezone America/Toronto) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 7 Feb 2023, 07:47:20 (timezone America/Toronto) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
