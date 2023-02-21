@@ -227,7 +227,7 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 789kb of code in 261 edited files across 110 commits</small>
+                <small>estimation from 782kb of code in 249 edited files across 106 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
@@ -502,7 +502,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>pnp/sp-starter-kit</span>
-                                        <span>starred 27 days ago</span>
+                                        <span>starred 28 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Modern SharePoint Starter Kit - End-to-end showcase solution to get started with modern experiences.</div>
@@ -555,7 +555,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>pnp/List-Formatting</span>
-                                        <span>starred 27 days ago</span>
+                                        <span>starred 28 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">List Formatting Samples for use in SharePoint and Microsoft Lists</div>
@@ -1197,7 +1197,7 @@ Co-authored-by: HttpMaster &lt;info@httpmaster.net&gt;</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Developer
-                                    <span class="gh">ranked 8.10m out of 109m users</span>
+                                    <span class="gh">ranked 8.11m out of 109m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">6</div>
                                     </div>
@@ -1456,7 +1456,7 @@ Co-authored-by: HttpMaster &lt;info@httpmaster.net&gt;</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 20 Feb 2023, 20:58:15 (timezone America/Toronto) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 21 Feb 2023, 07:48:04 (timezone America/Toronto) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
