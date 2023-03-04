@@ -40,8 +40,8 @@
                                     <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
@@ -227,7 +227,7 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 781kb of code in 249 edited files across 106 commits</small>
+                <small>estimation from 787kb of code in 261 edited files across 110 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
@@ -502,7 +502,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>debricked/dmarc-visualizer</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Analyse and visualize DMARC results using open-source tools</div>
@@ -555,7 +555,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>microsoft/SecCon-Framework</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Security configuration is complex. With thousands of group policies available in Windows, choosing the “best” setting is difficult. It’s not always obvious which permutations of policies are required to implement a complete scenario, and there are often unintended consequences of some security lockdowns.  The SECCON Baselines divide configuration into Productivity Devices and Privileged Access Workstations. This document will focus on Productivity Devices (SECCON 5, 4, and 3). Microsoft’s current guidance on Privileged Access Workstations can be found at http://aka.ms/cyberpaw and as part of the Securing Privileged Access roadmap found at http://aka.ms/privsec.</div>
@@ -955,7 +955,7 @@ Co-authored-by: vedantmgoyal2009[bot] &lt;110876359+vedantmgoyal2009[bot]@users.
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="31.848733744010957 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="31.891170431211503 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -1434,7 +1434,7 @@ Co-authored-by: vedantmgoyal2009[bot] &lt;110876359+vedantmgoyal2009[bot]@users.
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 3 Mar 2023, 07:46:44 (timezone America/Toronto) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 3 Mar 2023, 20:54:41 (timezone America/Toronto) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
