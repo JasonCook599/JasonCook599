@@ -30,9 +30,9 @@
                         <div class="field calendar">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
-                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
@@ -227,20 +227,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 2.97mb of code in 1247 edited files across 387 commits</small>
+                <small>estimation from 2.98mb of code in 1265 edited files across 391 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="449.19165116374006" height="8" fill="#012456"/>
-                    <rect mask="url(#languages-bar)" x="449.19165116374006" y="0" width="3.1031931916619304" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="452.294844355402" y="0" width="2.469265176980094" height="8" fill="#67b8de"/>
-                    <rect mask="url(#languages-bar)" x="454.7641095323821" y="0" width="1.7909704555415542" height="8" fill="#f0c040"/>
-                    <rect mask="url(#languages-bar)" x="456.55507998792365" y="0" width="1.0792459364537768" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="457.6343259243774" y="0" width="1.008465562418663" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="458.64279148679606" y="0" width="0.7047083887169499" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="459.347499875513" y="0" width="0.6525001244869679" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="447.44954482650144" height="8" fill="#012456"/>
+                    <rect mask="url(#languages-bar)" x="447.44954482650144" y="0" width="3.5680490189594556" height="8" fill="#f0c040"/>
+                    <rect mask="url(#languages-bar)" x="451.0175938454609" y="0" width="3.091158033593288" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="454.1087518790542" y="0" width="2.4596885909015347" height="8" fill="#67b8de"/>
+                    <rect mask="url(#languages-bar)" x="456.5684404699557" y="0" width="1.0750602816659725" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="457.64350075162173" y="0" width="1.0045544161570952" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="458.6480551677788" y="0" width="0.7019753082006303" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="459.35003047597945" y="0" width="0.6499695240206129" height="8" fill="#ededed"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -248,6 +248,12 @@
                             <path fill="#012456" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         PowerShell
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#f0c040" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        Smarty
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -260,12 +266,6 @@
                             <path fill="#67b8de" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         Liquid
-                    </div>
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#f0c040" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        Smarty
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -509,7 +509,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>bmillham/starlink-graph</span>
-                                        <span>starred 8 days ago</span>
+                                        <span>starred 9 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Show Starlink stats in a nice graph in an app instead of using a web browser</div>
@@ -562,7 +562,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>sparky8512/starlink-grpc-tools</span>
-                                        <span>starred 8 days ago</span>
+                                        <span>starred 9 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Random scripts and other bits for interacting with the SpaceX Starlink user terminal hardware</div>
@@ -615,7 +615,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>sensepost/InvokeADCheck</span>
-                                        <span>starred 11 days ago</span>
+                                        <span>starred 12 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">InvokeADCheck is a PowerShell module designed to evaluate the security of Active Directory environments.</div>
@@ -636,7 +636,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                         </svg>
-                                        97
+                                        98
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -668,7 +668,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Trimarc/Invoke-TrimarcADChecks</span>
-                                        <span>starred 11 days ago</span>
+                                        <span>starred 12 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The Invoke-TrimarcADChecks.ps1 PowerShell script is designed to gather data from a single domain AD forest based on our similar checks performed during Trimarc’s Active Directory Security Assessment (ADSA) engagement.</div>
@@ -875,7 +875,7 @@ Fix transit template</div>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="124.67898699520875 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="124.76386036960989 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -1390,7 +1390,7 @@ Fix transit template</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 20 Mar 2025, 08:55:32 (timezone America/Toronto) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 20 Mar 2025, 22:03:27 (timezone America/Toronto) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
