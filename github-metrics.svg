@@ -509,7 +509,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>bmillham/starlink-graph</span>
-                                        <span>starred 22 days ago</span>
+                                        <span>starred 23 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Show Starlink stats in a nice graph in an app instead of using a web browser</div>
@@ -562,7 +562,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>sparky8512/starlink-grpc-tools</span>
-                                        <span>starred 22 days ago</span>
+                                        <span>starred 23 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Random scripts and other bits for interacting with the SpaceX Starlink user terminal hardware</div>
@@ -615,7 +615,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>sensepost/InvokeADCheck</span>
-                                        <span>starred 25 days ago</span>
+                                        <span>starred 26 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">InvokeADCheck is a PowerShell module designed to evaluate the security of Active Directory environments.</div>
@@ -668,7 +668,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Trimarc/Invoke-TrimarcADChecks</span>
-                                        <span>starred 25 days ago</span>
+                                        <span>starred 26 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The Invoke-TrimarcADChecks.ps1 PowerShell script is designed to gather data from a single domain AD forest based on our similar checks performed during Trimarc’s Active Directory Security Assessment (ADSA) engagement.</div>
@@ -754,7 +754,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Apr 2025, 08:57:47 (timezone America/Toronto) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 3 Apr 2025, 22:04:02 (timezone America/Toronto) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
